@@ -1,0 +1,28 @@
+{
+  "name": "ai-bot-widget",
+  "version": "1.0.0",
+  "description": "AI 小百科助手 - 问答机器人挂件，可以在任何网站中引入使用",
+  "main": "ai-bot-widget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "widget",
+    "chat",
+    "assistant"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ai-bot-widget.git"
+  },
+  "files": [
+    "ai-bot-widget.js",
+    "ai-bot-widget.css",
+    "README.md"
+  ]
+}
+
